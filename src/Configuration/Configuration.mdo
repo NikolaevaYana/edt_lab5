@@ -42,4 +42,5 @@
   <catalogs>Catalog.Справочник2</catalogs>
   <catalogs>Catalog.Справочник3</catalogs>
   <documents>Document.Документ</documents>
+  <documents>Document.Начисления</documents>
 </mdclass:Configuration>
